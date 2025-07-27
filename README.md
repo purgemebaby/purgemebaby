@@ -72,10 +72,6 @@
 ---
 
 
-
-## What I'm Working On
-
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=purgemebaby&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
