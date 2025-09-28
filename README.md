@@ -13,7 +13,7 @@
         Hi! My name is Alberto (a.k.a Purgemebaby).
        </p>
       <p>
-        Currently, I'm studying a degree in Data Science and Engineering, but most of my time and passion goes into cybersecurity, specifically pentesting. I have finished eJPT INE Security course, so I'm preparing myself to take the eJPTv2 exam very very soon. When I'm not studying, I'm working on adding features to my Plague Discord Bot project with <a href="https://github.com/D4nivi">@D4nivi</a>, developing something new or playing CTFs on platforms or locally with VMs.
+        Currently, I'm studying a degree in Data Science and Engineering, but most of my time and passion goes into cybersecurity, specifically pentesting. I have achieved eJPTv2 INE Security certification. When I'm not studying, I'm working on adding features to my Plague Discord Bot project with <a href="https://github.com/D4nivi">@D4nivi</a>, developing something new or playing CTFs on platforms or locally with VMs. My Social Networks are linked to this profile if you want to check them :)
       </p>
       <p>
         My HTB profile if you want to check it:  <a href="https://app.hackthebox.com/profile/1968807">purgemebaby</a>
@@ -76,3 +76,9 @@
 </div>
 
 ---
+
+## <img src="https://github.com/user-attachments/assets/ae83f759-de32-492b-9825-fb34c8aa5284" width="50"><b> Stuff I Can Somewhat Wrangle Without Breaking Everything</b>
+
+
+![Mi Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/161942355)
+
