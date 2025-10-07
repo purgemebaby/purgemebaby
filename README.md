@@ -77,7 +77,7 @@
 
 ---
 
-## <img src="https://github.com/user-attachments/assets/ae83f759-de32-492b-9825-fb34c8aa5284" width="50"><b> Stuff I Can Somewhat Wrangle Without Breaking Everything</b>
+## <img src="https://github.com/user-attachments/assets/ae83f759-de32-492b-9825-fb34c8aa5284" width="50"><b> Somehow I managed to achieve</b>
 
 
 ![Mi Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/161942355)
