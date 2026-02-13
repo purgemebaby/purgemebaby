@@ -92,6 +92,21 @@
 [![](https://visitcount.itsvg.in/api?id=purgemebaby&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Mi Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/161942355)
-
-
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/161942355">
+        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/161942355"
+             alt="eJPT"
+             height="125" />
+      </a>
+    </td>
+    <td style="padding-left: 30px;">
+      <a href="https://labs.cyberwarfare.live/credential/achievement/692e44b84ae64839616bc8f9/">
+        <img src="https://github.com/user-attachments/assets/990349db-a3fb-4ca0-a254-938527196384"
+             alt="WEBRTA"
+             height="95" />
+      </a>
+    </td>
+  </tr>
+</table>
