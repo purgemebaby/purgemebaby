@@ -25,12 +25,10 @@
 
 ---
 
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats </b>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=purgemebaby&theme=dracula&hide_border=false)" height="150" alt="commits graph"/>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/purgemebaby?cardType=octocat&theme=monokai&fontFamily=Aldrich&preferLogin=true" height="150" alt="purgemebaby's GitHub Stats"/>
 </div>
 
 ---
