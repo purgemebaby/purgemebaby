@@ -83,7 +83,7 @@
   <img src="https://skillicons.dev/icons?i=python,r,rust,bash" alt="Python, R, Rust, Bash" />
 
   <h4>Robotics &amp; Hardware <sub>(the new obsession)</sub></h4>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros,linux" alt="Arduino, Raspberry Pi, ROS, Linux" />&nbsp;<img src="https://img.shields.io/badge/ESP32-E7352C?style=plastic&logo=espressif&logoColor=white" height="48" alt="ESP32" />&nbsp;<img src="https://img.shields.io/badge/KiCad-214A7C?style=plastic&logo=kicad&logoColor=white" height="48" alt="KiCad" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros,linux" alt="Arduino, Raspberry Pi, ROS, Linux" />&nbsp;<img src="https://img.shields.io/badge/ESP32-E7352C?style=plastic&logo=espressif&logoColor=white" height="48" alt="ESP32" />
 
   <h4>Data Science</h4>
     <img src="https://skillicons.dev/icons?i=scikitlearn,opencv" alt="scikit-learn, OpenCV" />&nbsp;<img  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit-learn" />&nbsp;<img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white" height="48" alt="pandas" />&nbsp;<img src="https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white" height="48" alt="numpy" />&nbsp;<img src="https://img.shields.io/badge/SciPy-0C55A5?style=plastic&logo=scipy&logoColor=white" height="48" alt="SciPy" />&nbsp;<img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white" height="48" alt="Jupyter" />
@@ -124,10 +124,6 @@
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/NASA-Letter_of_Recognition-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" />
-      <br />
-      <b>NASA Letter of Recognition</b>
-      <br />
-      <sub>Recognition</sub>
     </td>
   </tr>
 </table>
