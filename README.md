@@ -82,7 +82,7 @@
   <h4>Languages</h4>
   <img src="https://skillicons.dev/icons?i=python,r,rust,bash" alt="Python, R, Rust, Bash" />
 
-  <h4>Robotics &amp; Hardware <sub>(the new obsession)</sub></h4>
+  <h4>Robotics &amp; Hardware</h4>
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros,linux" alt="Arduino, Raspberry Pi, ROS, Linux" />&nbsp;<img src="https://img.shields.io/badge/ESP32-E7352C?style=plastic&logo=espressif&logoColor=white" height="48" alt="ESP32" />
 
   <h4>Data Science</h4>
@@ -121,9 +121,6 @@
       <b>WEBRTA</b>
       <br />
       <sub>CyberWarfare Labs</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/NASA-Letter_of_Recognition-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" />
     </td>
   </tr>
 </table>
