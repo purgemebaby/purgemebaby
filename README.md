@@ -123,7 +123,7 @@
       <sub>CyberWarfare Labs</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/NASA-Letter_of_Recognition-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Letter of Recognition" />
+      <img src="https://img.shields.io/badge/NASA-Letter_of_Recognition-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" />
       <br />
       <b>NASA Letter of Recognition</b>
       <br />
