@@ -19,7 +19,7 @@
   <tr>
     <td width="62%" valign="top">
       <h3>About me</h3>
-      <p>Hi! I'm <b>Alberto</b> — known online as <b>purgemebaby</b>.</p>
+      <p>Hi :)</p>
       <p>
         I'm studying a degree in <b>Data Science and Engineering</b>, and for a long time
         most of my free time went into <b>cybersecurity</b>: pentesting, CTFs and
